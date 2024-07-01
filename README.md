@@ -1,0 +1,2 @@
+# euclidGcd
+Learning goLang
